@@ -25,7 +25,6 @@ mappings:
       - [rdfs:label, $(nombre) ]
       - [rdfs:comment, $(descripcion) ]
       - [edintcom:hasCommercialEventType, "http://vocab.linkeddata.es/datosabiertos/kos/edint/CommercialEventType/$(tipo_event)~iri" ]
-      - [edintcom:hasCommercialCampaignType, "http://vocab.linkeddata.es/datosabiertos/kos/edint/CommercialCampaignType/$(tipo_camp)~iri" ]
       - [edintcom:locateInZone, "http://vocab.linkeddata.es/datosabiertos/recurso/zona/$(zona_id)~iri"]
       - [schema:startDate, $(fecha_inicio), xsd:dateTime ]
       - [schema:endDate, $(fecha_fin), xsd:dateTime ]

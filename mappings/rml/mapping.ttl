@@ -89,17 +89,6 @@
 	rr:predicateObjectMap [
 		rr:predicateMap [
 			a rr:PredicateMap;
-			rr:constant edintcom:hasCommercialCampaignType;
-		];
-		rr:objectMap [
-			a rr:ObjectMap;
-			rr:template "http://vocab.linkeddata.es/datosabiertos/kos/edint/CommercialCampaignType/{tipo_camp}";
-			rr:termType rr:IRI
-		];
-	];
-	rr:predicateObjectMap [
-		rr:predicateMap [
-			a rr:PredicateMap;
 			rr:constant edintcom:locateInZone;
 		];
 		rr:objectMap [
