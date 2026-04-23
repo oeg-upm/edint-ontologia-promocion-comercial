@@ -144,7 +144,7 @@
         <mxCell id="EHm251urT3rsDlueYOiP-2" parent="uZ-49iQFPbzhzocUgkiV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="edintcom" vertex="1">
           <mxGeometry height="30" width="60" x="458.5" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="Hp_RgInpb9BgJGSYVe6L-0" parent="uZ-49iQFPbzhzocUgkiV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="dcterms:identifier&lt;div&gt;rdfs:label&lt;/div&gt;&lt;div&gt;rdfs:comment&lt;/div&gt;&lt;div&gt;schema:startDate&lt;/div&gt;&lt;div&gt;schema:enDate&lt;/div&gt;" vertex="1">
+        <mxCell id="Hp_RgInpb9BgJGSYVe6L-0" parent="uZ-49iQFPbzhzocUgkiV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="dcterms:identifier&lt;div&gt;rdfs:label&lt;/div&gt;&lt;div&gt;rdfs:comment&lt;/div&gt;&lt;div&gt;schema:startDate&lt;/div&gt;&lt;div&gt;schema:endDate&lt;/div&gt;" vertex="1">
           <mxGeometry height="73.53" width="200" x="280" y="236.47" as="geometry" />
         </mxCell>
         <mxCell id="Hp_RgInpb9BgJGSYVe6L-1" parent="uZ-49iQFPbzhzocUgkiV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="dcterms:identifier&lt;div&gt;rdfs:label&lt;/div&gt;&lt;div&gt;rdfs:comment&lt;/div&gt;&lt;div&gt;schema:startDate&lt;/div&gt;&lt;div&gt;schema:enDate&lt;/div&gt;&lt;div&gt;edintpro:budget&lt;/div&gt;&lt;div&gt;edintpro:numberOfCommercialSpaces&lt;/div&gt;" vertex="1">
